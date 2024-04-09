@@ -6,7 +6,7 @@ whoami? Tyler James a Tech Enthusiast, Cybersecurity Aspirant, and proud Busines
 
 ### 📄 Certificates
 
-Security+ | Pentest+ [LOADING] 
+Security+ | Pentest+ [loading...🪫]
 
 ### 🔐 Cybersecurity Aspirant
 
